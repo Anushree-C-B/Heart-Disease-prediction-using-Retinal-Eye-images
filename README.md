@@ -1,0 +1,1 @@
+Built a predictive analytics system using supervised machine learning algorithms such as Logistic Regression and Random Forest to assess heart disease risk. Performed data preprocessing, feature engineering, and model evaluation to achieve high accuracy and reliability.
